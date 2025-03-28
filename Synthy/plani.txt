@@ -1,0 +1,9 @@
+Poročilo:
+
+Zdravo! Pripravil sem poročilo, kaj nameravam izdelati za svojo zaključno nalogo:
+___________________________________________________________________________________________________________________________
+
+Synthy je zabavna in interaktivna spletna stran za učenje glasbene teorije za osnovno glasbeno šolo.
+S to spletno stranjo se bodo učenci zlahka naučili teorije skozi zabavne naloge.
+
+Trenutno ima spletna stran 8 vrst nalog, v prihodnje jih bo še več.
